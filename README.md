@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>My Java Projects</b>
-  - [Java Projects](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Java Projects](https://github.com/brenying/JavaProjects/)
     
 <h2>📄 Certifications</h2>
 

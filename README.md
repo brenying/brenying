@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>My Java Projects</b>
-  - [Create a GIF](https://github.com/brenying/JavaProjects/)
-  - [Java Projects](https://github.com/brenying/create_a_gif)
+  - [Create a GIF](https://github.com/brenying/create_a_gif/)
+  - [Java Projects](https://github.com/brenying/JavaProjects/)
   
     
 <h2>📄 Certifications</h2>

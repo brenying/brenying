@@ -28,5 +28,5 @@
 - CompTIA Network+
 
 <h2>🏫 Student at Saint Francis University</h2>
-- <b>Majoring in Computer Science / Accelerated MBA</b>
+- <b>Majoring in Computer Science / Accelerated MBA</b> <br>
 - <b>Majoring in Cybersecurity Administration</b>

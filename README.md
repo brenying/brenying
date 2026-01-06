@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>My Java Projects</b>
-  - [Unit Conversion Program](https://github.com/brenying/Unit-Conversion-Program)
+  - [Student Course Management System](https://github.com/brenying/Student-Course-Management-System)
   - [Study Guide Program](https://github.com/brenying/Study-Guide)
   - [Quadratic Equation Program](https://github.com/brenying/Quadratic-Equation-Solver)
 

@@ -27,6 +27,7 @@
 <h2>📄 Certifications</h2>
 
 - CompTIA Network+
+- CompTIA Security+
 
 <h2>🏫 Student at Saint Francis University</h2>
 - <b>Majoring in Computer Science / Accelerated MBA</b> <br>

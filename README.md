@@ -15,14 +15,14 @@
 - <b>My Python Projects</b>
   - [Create a GIF](https://github.com/brenying/create_a_gif/)
 
-  <h2>Digital Forensics Projects:</h2>
+<!--  <h2>Digital Forensics Projects:</h2>
 
 - <b>My Projects</b>
   - [Precious Project](https://github.com/brenying/Precious-Project-Digital-Forensics-)
   - [Mantooth Project](https://github.com/brenying/Mantooth-Project-Digital-Forensics-)
   - [Washer Project](https://github.com/brenying/Washer-Project-Digital-Forensics-)
   - [Clampet Project](https://github.com/brenying/Clampet-Project-Digital-Forensics)
-
+-->
     
 <h2>📄 Certifications</h2>
 
